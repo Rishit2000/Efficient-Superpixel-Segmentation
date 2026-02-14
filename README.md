@@ -80,14 +80,3 @@ Project documentation, proposals, and progress reports.
 3. **Classification** (SuperpixelClassifier): Vision Transformer processes superpixel tokens
 4. **Association** (SuperpixelAssociation): Maps predictions back to dense pixel space
 
-## Team
-
-- Abhishek Dharmadhikari
-- Amandeep Gupta
-- Harshavardhan Kedarnath
-- Kanhaiya Madaswar
-- Rishit Patel
-
-## Project Website
-
-View the complete project documentation at the GitHub Pages site [here](https://github.gatech.edu/pages/rpatel917/Efficient_Superpixel_Segmentation).
